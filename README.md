@@ -40,7 +40,7 @@ This approach leverages Contrastive Learning and Vision-Language Models to provi
 * **Focus:** Generating descriptive clinical captions alongside classification.
 * **Components:** * Captions generated via **Qwen VLM**.
     * Segmentation metrics provided by **MedSAM**.
-* **Notebook:** `Approach_2_Qwen_VLM_Captioning.ipynb`
+* **Notebook:** `Approach_2_Qwen_VLM_Captioning_and_Classification.ipynb`
 
 ---
 
